@@ -8,8 +8,8 @@
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinlogo2.webp" alt="sevinhost"width="250px">
   
 </section>
-   <p style="font-size:16px;">Alireza azarakhsh : Founder of Sevin-Group</p>
-   <p>Elham mohammadi : ui-ux Product Desigener </p> 
-  <br>
-  <br>
+  <section>
+  Ï <p style="font-size:16px;">Alireza azarakhsh : Founder of Sevin-Group</p>
+   Ï<p>Elham mohammadi : ui-ux Product Desigener </p> 
+  </section>
 </h1>
