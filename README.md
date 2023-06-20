@@ -6,8 +6,7 @@
   <br>
   <img src="https://github.com/alirezaazarakhsh/alireza/blob/main/sevinlogo2.webp" alt="sevinhost"width="250px">
   <br>
-   <p>Alireza azarakhsh : Founder of Sevin-Group</p>
-   <br><br>
+   <p style="font-size:16px;">Alireza azarakhsh : Founder of Sevin-Group</p>
    <p>Elham mohammadi : ui-ux Product Desigener </p> 
   <br>
   <br>
