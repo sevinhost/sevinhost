@@ -12,4 +12,4 @@
 
 ## People in the team
 
-<p style="font-size:16px; color:red;">Alireza Azarakhsh: Manager and Founder</p>
+<p class="text-[16px] text-red-700">Alireza Azarakhsh : Manager and Founder</p>
