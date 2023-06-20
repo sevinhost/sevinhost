@@ -14,5 +14,6 @@
 <h5>Alireza Azarakhsh : Manager and Founder</h5>
 <h5>Elham Mohammadi: UI/UX Designer and Product Designer</h5>
 <h5>Abolfazl Talebi: Front-end Designer</h5>
-## People in the team
+
+## The languages we work with in the team are
 
